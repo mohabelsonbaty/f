@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  position: relative;
+  border: none;
+  outline: none;
+  font-family: "Chau Philomene One", sans-serif;
+}
+
+.color {
+  border: 2px solid;
+  color: #7749f8;
+}
+.font {
+  font-family: "Chau Philomene One", sans-serif;
+}
+
+.navbar {
+  background: #ffffff;
+  font-family: fantasy;
+  color: #343a40;
+}
+li {
+  list-style-type: none;
+}
+.user {
+  border: 2px solid #7749f8;
+  padding: 3px;
+  background-color: #7749f8;
+}
+.btn2 {
+  background-color: #7749f8;
+  width: 300px;
+  height: 60px;
+  gap: 0px;
+  border-radius: 4px 0px 0px 0px;
+  opacity: 0px;
+}
+
+.dangers {
+  border: 2px solid;
+  width: 300px;
+  height: 60px;
+  gap: 0px;
+  border-radius: 4px 0px 0px 0px;
+  opacity: 0px;
+}
+.Doller {
+  color: #7749f8;
+}
+.ahmed {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+p {
+  display: flex;
+  justify-content: start;
+  align-items: start;
+}
+.navbar {
+  height: 100%;
+  width: 100%;
+}
